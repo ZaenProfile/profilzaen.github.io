@@ -1,0 +1,50 @@
+ body{
+   background:linear-gradient(#eec564 0%,#01fec3 40%,#02b38a 100%)
+ }
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.profilweb{
+    width: 200px;
+}
+.profile h2{
+  font-style: italic;
+}
+.profile h4{
+  font-style: italic;
+  transform: translateY(-5px);
+}
+.biodata{
+  background:linear-gradient(#ffffff 0%,#fcfcfbde 40%,#f9fafa00 100%);
+  padding-bottom: 120px;
+  padding-top: 70px;
+}
+.row {
+  padding-bottom: 0px 30px;
+}
+.biodata h4 {
+  font-style: italic;
+}
+.biodata h5 {
+  font-style: normal;
+}
+.biodata h6 {
+  font-size: medium;
+  font-style: normal;
+}
+.footer {
+  background-color: #ffffff;
+  padding-bottom: 5px;
+  padding-top: 70px;
+}
+.contact a {
+  color: black;
+}
+.contact {
+  padding-bottom: 10px;
+}
+
